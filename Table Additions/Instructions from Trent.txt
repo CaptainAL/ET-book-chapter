@@ -1,0 +1,18 @@
+Hi Alex,
+
+  What’s your schedule like?  If you have time, I could still use help on the ET article.  I’ve held off asking you because I really want you to finish Chapter 1, but you may be better situated to help on some aspects of the ET chapter.  I’m comfortable adding you back in as co-author, but would need probably 8-10 hours of work from you on it (first being a column of units in the attached table).
+
+  What do you think? 
+
+
+Alex,
+
+ I needed additions to the attached table.  Much of the information is in the text (“ET_croplands_n.docx”), in particular the scatterplot section. I may cut out some of the text if the table seems adequate.  The Excel table contains what I think is the best format; the attached word doc (“table_errors.docx”) has another start with some of the data in it. 
+
+  I would like to add a column to the excel table that has the reference for the method.
+
+  Can you add a column to the Excel table with the references and fill in the uncertainty column?  There may be different metrics for uncertainty for each method; that’s ok. 
+
+  Thanks!
+
+  Trent
